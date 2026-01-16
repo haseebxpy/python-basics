@@ -1,0 +1,9 @@
+Log Summary
+-----------
+Total entries:7
+ User logs:2
+SYSTEM Logs:2
+ERROR Logs:2
+WARNING Logs:1
+ERROR Details:
+ERROR: Disk space low. 1ERROR: Network timeout. 2

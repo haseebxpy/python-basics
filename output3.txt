@@ -1,0 +1,7 @@
+Total Lines : 6
+Lines containing 'python':4 
+Matched Lines:
+1. Python automation is powerful
+2. I love python scripting
+3. Data processing with PYTHON
+4. python is used everywhere

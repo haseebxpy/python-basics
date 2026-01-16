@@ -1,0 +1,9 @@
+USER: John logged in
+SYSTEM: Backup completed
+ERROR: Disk space low
+
+USER: Alice logged in
+WARNING: High memory usage
+ERROR: Network timeout
+
+SYSTEM: Update installed

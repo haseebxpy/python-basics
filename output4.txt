@@ -1,0 +1,8 @@
+Activity Report
+---------------
+Total entries: 6
+Login events: 3
+Error events: 2
+Error Details: 
+1. ERROR: Invalid password
+2. Error: Timeout
