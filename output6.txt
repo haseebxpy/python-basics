@@ -1,0 +1,9 @@
+Server Log Analysis Report
+--------------------------
+Total Records: 5
+User Events: 2
+System Events: 1
+Error Events: 1
+Warning Events: 1
+Error Event Details:
+1. 2024-01-10 ERROR database connection failed

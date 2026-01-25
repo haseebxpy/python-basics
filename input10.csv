@@ -1,0 +1,6 @@
+OrderID,Customer,Amount,Status
+1001,Haseeb,120,Completed
+1002,Ali,75,Pending
+1003,Sara,200,Completed
+1004,Haseeb,50,Pending
+1005,Ali,180,Pending

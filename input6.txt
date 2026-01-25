@@ -1,0 +1,5 @@
+2024-01-10 USER login success
+2024-01-10 SYSTEM service started
+2024-01-10 WARNING high memory usage
+2024-01-10 ERROR database connection failed
+2024-01-10 USER logout
